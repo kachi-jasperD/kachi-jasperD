@@ -14,3 +14,6 @@ I'm a QA Automation Engineer transitioning to Software Engineering, with a stron
 - 📫 You can [view my resume](https://acrobat.adobe.com/id/urn:aaid:sc:EU:9a432133-34e2-4845-8468-6bf9ab57cd76) and contact me by emailing ojasperduruzor@gmail.com.
 
 ---
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=kachi-jasperD&show_icons=true&include_all_commits=true&hide_border=true" alt="kachi-jasperD's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kachi-jasperD&langs_count=8&layout=compact&hide_border=true" alt="kachi-jasperD's GitHub stats" /> |
+| ------------- | ------------- |
