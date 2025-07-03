@@ -8,7 +8,7 @@ I'm a QA Automation Engineer transitioning to Software Engineering, with a stron
 
 - 😊 Pronouns: She/her
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://engineering.altschoolafrica.com/) Class of 2024.
-- 🌱 I’m currently learning HTML, CSS, JavaScript and Reactjs.
+- 🌱 I’m currently learning HTML, CSS, JavaScript, React.js and Vue.js.
 - 😊 I’m looking for help with open-source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
 - 📫 You can [view my resume](https://acrobat.adobe.com/id/urn:aaid:sc:EU:9a432133-34e2-4845-8468-6bf9ab57cd76) and contact me by emailing ojasperduruzor@gmail.com.
